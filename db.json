@@ -16,13 +16,13 @@
       "title": "My Opening party",
       "body": "Why do we use it>\nIt is not established yet But it is not specified anywhere that StrictMode cause useEffect to run twice too. Strict Mode is used to detect if we are doing side effect in any function which should be pure so only those functions that needed to be pure are run twice but as useEffect can contain side effect",
       "author": "Lui",
-      "id": 2
+      "id": 3
     },
     {
       "title": "Mani",
       "body": "I was here",
       "author": "mani",
-      "id": 3
+      "id": 4
     }
   ]
 }
